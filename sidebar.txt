@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fag:home|Door43 (fag)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fag|d43-fag repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fag/archive/master.zip|d43-fag.zip]]
+
+**Recent Changes**
+{{changes>ns = fag}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fag|Ethnologue data]]
+
